@@ -1,2 +1,2 @@
 # AliasHook
-Powerful Team Fortress 2 scripts
+New tf2 scripts designed to be easy to understand while extremly modular and lightweight.
